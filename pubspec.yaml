@@ -12,7 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  build_runner: ^1.11.5
+  build_runner: ^2.4.4
   package_info: ^2.0.0
 
 flutter:
